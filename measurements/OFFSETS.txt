@@ -1,0 +1,5 @@
+SPINDLE WITHOUT DRILL BIT OFFSETS: (REFERENCE = EXTRUDER)
+x = +15,35
+y = +27,4
+z = +3,75 (really close to bed surface!!)
+
